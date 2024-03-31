@@ -1,0 +1,11 @@
+.gpt3__features-container__feature-title h1{
+    letter-spacing: -0.04em;
+    font-family: var(--font-family);
+}
+.gpt3__features-container__feature-text p{
+    font-family: var(--font-family);
+}
+.line{
+    box-shadow: 0 4px 4px rgba(0,0,0,0.25) !important;
+    background: var(--gradient-bar);
+}

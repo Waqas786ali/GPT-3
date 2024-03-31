@@ -1,0 +1,5 @@
+.gpt3__posssibility-content h4,
+.gpt3__posssibility-content h1,
+.gpt3__posssibility-content p{
+    font-family: var(--font-family);
+}

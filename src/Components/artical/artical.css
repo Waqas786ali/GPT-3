@@ -1,0 +1,4 @@
+.gpt3__blog-container_artical-content p,
+.gpt3__blog-container_artical-content h3{
+    font-family: var(--font-family);
+}
